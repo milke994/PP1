@@ -1,0 +1,192 @@
+INFO  16:54:47,098 - Compiling source file: C:\Users\Aleksandar\Downloads\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  16:54:47,148 - #2 program
+INFO  16:54:47,148 - #17 MJProgram
+INFO  16:54:47,148 - #17 int
+INFO  16:54:47,148 - #17 x
+INFO  16:54:47,148 - #8 ,
+INFO  16:54:47,148 - #17 y
+INFO  16:54:47,148 - #5 ;
+INFO  16:54:47,148 - #3 {
+INFO  16:54:47,148 - #17 int
+INFO  16:54:47,148 - #17 k
+INFO  16:54:47,148 - #6 (
+INFO  16:54:47,148 - #7 )
+INFO  16:54:47,148 - #17 int
+INFO  16:54:47,148 - #17 c
+INFO  16:54:47,148 - #5 ;
+INFO  16:54:47,148 - #3 {
+INFO  16:54:47,148 - #17 c
+INFO  16:54:47,148 - #12 =
+INFO  16:54:47,148 - #16 1
+INFO  16:54:47,158 - #5 ;
+INFO  16:54:47,158 - #10 return
+INFO  16:54:47,162 - #17 c
+INFO  16:54:47,162 - #11 +
+INFO  16:54:47,162 - #16 2
+INFO  16:54:47,163 - #5 ;
+INFO  16:54:47,163 - #4 }
+INFO  16:54:47,163 - #13 void
+INFO  16:54:47,163 - #17 main
+INFO  16:54:47,163 - #6 (
+INFO  16:54:47,163 - #7 )
+INFO  16:54:47,163 - #3 {
+INFO  16:54:47,163 - #9 print
+INFO  16:54:47,163 - #6 (
+INFO  16:54:47,163 - #16 1
+INFO  16:54:47,163 - #7 )
+INFO  16:54:47,163 - #5 ;
+INFO  16:54:47,163 - #9 print
+INFO  16:54:47,163 - #6 (
+INFO  16:54:47,163 - #16 2
+INFO  16:54:47,163 - #7 )
+INFO  16:54:47,163 - #5 ;
+INFO  16:54:47,163 - #4 }
+INFO  16:54:47,163 - #4 }
+INFO  16:54:47,168 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  ConsVarClasses(
+    NoConsVarClasses(
+    ) [NoConsVarClasses]
+    VarD(
+      VarDeclCorrect(
+        Type(
+         int
+        ) [Type]
+        VarIdentL(
+          VarId(
+            VarIdent(
+             x
+              SBracketNo(
+              ) [SBracketNo]
+            ) [VarIdent]
+          ) [VarId]
+          VarIdent(
+           y
+            SBracketNo(
+            ) [SBracketNo]
+          ) [VarIdent]
+        ) [VarIdentL]
+      ) [VarDeclCorrect]
+    ) [VarD]
+  ) [ConsVarClasses]
+  MethodDeclarations(
+    MethodDeclarations(
+      NoMethodDecl(
+      ) [NoMethodDecl]
+      MethodDecl(
+        MethodTypeN(
+          Type(
+           int
+          ) [Type]
+         k
+        ) [MethodTypeN]
+        NoFormParams(
+        ) [NoFormParams]
+        VarsYes(
+          VarsNo(
+          ) [VarsNo]
+          VarDeclCorrect(
+            Type(
+             int
+            ) [Type]
+            VarId(
+              VarIdent(
+               c
+                SBracketNo(
+                ) [SBracketNo]
+              ) [VarIdent]
+            ) [VarId]
+          ) [VarDeclCorrect]
+        ) [VarsYes]
+        Statements(
+          Statements(
+            NoStmt(
+            ) [NoStmt]
+            DesigStatement(
+              DesignatorStEqualExpr(
+                DesignatorBegin(
+                 c
+                ) [DesignatorBegin]
+                AssignopDerived1(
+                ) [AssignopDerived1]
+                ExprEqualsTerm(
+                  MulopFactor(
+                    NumFactor(
+                     1
+                    ) [NumFactor]
+                  ) [MulopFactor]
+                ) [ExprEqualsTerm]
+              ) [DesignatorStEqualExpr]
+            ) [DesigStatement]
+          ) [Statements]
+          ReturnOnly(
+            OptionExprRetYes(
+              ExprAddopTerm(
+                ExprEqualsTerm(
+                  MulopFactor(
+                    DesigFactor(
+                      DesignatorBegin(
+                       c
+                      ) [DesignatorBegin]
+                      OptionParenActParsNo(
+                      ) [OptionParenActParsNo]
+                    ) [DesigFactor]
+                  ) [MulopFactor]
+                ) [ExprEqualsTerm]
+                AddopPlus(
+                ) [AddopPlus]
+                MulopFactor(
+                  NumFactor(
+                   2
+                  ) [NumFactor]
+                ) [MulopFactor]
+              ) [ExprAddopTerm]
+            ) [OptionExprRetYes]
+          ) [ReturnOnly]
+        ) [Statements]
+      ) [MethodDecl]
+    ) [MethodDeclarations]
+    MethodDecl(
+      VoidMethodName(
+       main
+      ) [VoidMethodName]
+      NoFormParams(
+      ) [NoFormParams]
+      VarsNo(
+      ) [VarsNo]
+      Statements(
+        Statements(
+          NoStmt(
+          ) [NoStmt]
+          PrintStatement(
+            ExprEqualsTerm(
+              MulopFactor(
+                NumFactor(
+                 1
+                ) [NumFactor]
+              ) [MulopFactor]
+            ) [ExprEqualsTerm]
+            OptionNumConstNo(
+            ) [OptionNumConstNo]
+          ) [PrintStatement]
+        ) [Statements]
+        PrintStatement(
+          ExprEqualsTerm(
+            MulopFactor(
+              NumFactor(
+               2
+              ) [NumFactor]
+            ) [MulopFactor]
+          ) [ExprEqualsTerm]
+          OptionNumConstNo(
+          ) [OptionNumConstNo]
+        ) [PrintStatement]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  16:54:47,168 - Detektovano koriscenje lokalne promenljive ( c) na liniji 8 Var c: int, 0, 1 
+INFO  16:54:47,168 - Detektovano koriscenje lokalne promenljive ( c) na liniji 9 Var c: int, 0, 1 
+INFO  16:54:47,168 - Parsiranje uspesno zavrseno!

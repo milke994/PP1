@@ -1,0 +1,36 @@
+INFO  20:28:48,786 - Compiling source file: C:\Users\Aleksandar\Downloads\pp1lab.templateAST\workspace\MJCompiler\test\programtest.mj
+INFO  20:28:48,830 - #2 program
+INFO  20:28:48,831 - #17 MojTest
+INFO  20:28:48,831 - #24 enum
+INFO  20:28:48,831 - #17 Broj
+INFO  20:28:48,832 - #3 {
+INFO  20:28:48,832 - #17 NULA
+INFO  20:28:48,832 - #8 ,
+INFO  20:28:48,832 - #17 JEDAN
+INFO  20:28:48,833 - #8 ,
+INFO  20:28:48,833 - #17 PET
+INFO  20:28:48,833 - #12 =
+INFO  20:28:48,833 - #16 5
+INFO  20:28:48,833 - #8 ,
+INFO  20:28:48,833 - #17 DESET
+INFO  20:28:48,833 - #12 =
+INFO  20:28:48,833 - #16 10
+INFO  20:28:48,833 - #4 }
+INFO  20:28:48,833 - #22 const
+INFO  20:28:48,834 - #17 int
+INFO  20:28:48,834 - #17 jedan
+INFO  20:28:48,836 - #12 =
+INFO  20:28:48,836 - #16 1
+INFO  20:28:48,836 - #5 ;
+INFO  20:28:48,836 - #22 const
+INFO  20:28:48,837 - #17 int
+INFO  20:28:48,837 - #17 pet
+INFO  20:28:48,837 - #12 =
+INFO  20:28:48,837 - #16 5
+INFO  20:28:48,837 - #5 ;
+INFO  20:28:48,837 - #22 const
+INFO  20:28:48,837 - #17 int
+INFO  20:28:48,837 - #23 class
+ERROR 20:28:48,837 - 
+Sintaksna greska na liniji 7
+ERROR 20:28:48,837 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 7

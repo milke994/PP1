@@ -1,0 +1,11 @@
+INFO  20:21:02,841 - Compiling source file: C:\Users\Aleksandar\Downloads\pp1lab.templateAST\workspace\MJCompiler\test\programtest.mj
+INFO  20:21:02,879 - #2 program
+INFO  20:21:02,879 - #17 MojTest
+INFO  20:21:02,879 - #22 const
+INFO  20:21:02,879 - #17 bool
+INFO  20:21:02,879 - #17 a
+INFO  20:21:02,879 - #12 =
+INFO  20:21:02,879 - #17 true
+ERROR 20:21:02,879 - 
+Sintaksna greska na liniji 2
+ERROR 20:21:02,879 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 2

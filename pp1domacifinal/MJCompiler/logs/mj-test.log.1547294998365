@@ -1,0 +1,731 @@
+INFO  13:05:44,622 - Compiling source file: C:\Users\Aleksandar\Downloads\pp1lab.templateAST\workspace\MJCompiler\test\programtest.mj
+INFO  13:05:44,669 - #2 program
+INFO  13:05:44,669 - #17 test301
+INFO  13:05:44,669 - #24 enum
+INFO  13:05:44,669 - #17 Broj
+INFO  13:05:44,669 - #3 {
+INFO  13:05:44,669 - #17 NULA
+INFO  13:05:44,669 - #8 ,
+INFO  13:05:44,669 - #17 JEDAN
+INFO  13:05:44,669 - #8 ,
+INFO  13:05:44,669 - #17 PET
+INFO  13:05:44,669 - #12 =
+INFO  13:05:44,669 - #16 5
+INFO  13:05:44,669 - #8 ,
+INFO  13:05:44,669 - #17 DESET
+INFO  13:05:44,669 - #12 =
+INFO  13:05:44,669 - #16 10
+INFO  13:05:44,669 - #4 }
+INFO  13:05:44,669 - #22 const
+INFO  13:05:44,669 - #17 int
+INFO  13:05:44,669 - #17 jedan
+INFO  13:05:44,669 - #12 =
+INFO  13:05:44,669 - #16 1
+INFO  13:05:44,669 - #5 ;
+INFO  13:05:44,669 - #22 const
+INFO  13:05:44,669 - #17 int
+INFO  13:05:44,669 - #17 pet
+INFO  13:05:44,669 - #12 =
+INFO  13:05:44,669 - #16 5
+INFO  13:05:44,669 - #5 ;
+INFO  13:05:44,669 - #17 int
+INFO  13:05:44,684 - #17 niz
+INFO  13:05:44,684 - #14 [
+INFO  13:05:44,684 - #15 ]
+INFO  13:05:44,684 - #5 ;
+INFO  13:05:44,684 - #17 char
+INFO  13:05:44,684 - #17 nizch
+INFO  13:05:44,684 - #14 [
+INFO  13:05:44,684 - #15 ]
+INFO  13:05:44,684 - #5 ;
+INFO  13:05:44,684 - #3 {
+INFO  13:05:44,684 - #13 void
+INFO  13:05:44,684 - #17 main
+INFO  13:05:44,684 - #6 (
+INFO  13:05:44,684 - #7 )
+INFO  13:05:44,684 - #17 int
+INFO  13:05:44,684 - #17 bodovi
+INFO  13:05:44,684 - #5 ;
+INFO  13:05:44,684 - #17 Broj
+INFO  13:05:44,684 - #17 nula
+INFO  13:05:44,684 - #8 ,
+INFO  13:05:44,684 - #17 jedan
+INFO  13:05:44,684 - #5 ;
+INFO  13:05:44,684 - #3 {
+INFO  13:05:44,684 - #17 nula
+INFO  13:05:44,684 - #12 =
+INFO  13:05:44,684 - #17 Broj
+INFO  13:05:44,684 - #36 .
+INFO  13:05:44,684 - #17 NULA
+INFO  13:05:44,684 - #5 ;
+INFO  13:05:44,684 - #17 bodovi
+INFO  13:05:44,684 - #12 =
+INFO  13:05:44,684 - #16 0
+INFO  13:05:44,684 - #5 ;
+INFO  13:05:44,684 - #17 bodovi
+INFO  13:05:44,684 - #32 ++
+INFO  13:05:44,684 - #5 ;
+INFO  13:05:44,684 - #17 bodovi
+INFO  13:05:44,684 - #12 =
+INFO  13:05:44,684 - #17 bodovi
+INFO  13:05:44,684 - #11 +
+INFO  13:05:44,684 - #17 jedan
+INFO  13:05:44,684 - #5 ;
+INFO  13:05:44,684 - #17 bodovi
+INFO  13:05:44,684 - #12 =
+INFO  13:05:44,684 - #17 bodovi
+INFO  13:05:44,684 - #43 *
+INFO  13:05:44,684 - #17 pet
+INFO  13:05:44,684 - #5 ;
+INFO  13:05:44,684 - #17 bodovi
+INFO  13:05:44,684 - #33 --
+INFO  13:05:44,684 - #5 ;
+INFO  13:05:44,684 - #9 print
+INFO  13:05:44,684 - #6 (
+INFO  13:05:44,684 - #17 bodovi
+INFO  13:05:44,684 - #7 )
+INFO  13:05:44,684 - #5 ;
+INFO  13:05:44,684 - #17 niz
+INFO  13:05:44,684 - #12 =
+INFO  13:05:44,684 - #35 new
+INFO  13:05:44,684 - #17 int
+INFO  13:05:44,684 - #14 [
+INFO  13:05:44,684 - #16 2
+INFO  13:05:44,684 - #15 ]
+INFO  13:05:44,684 - #5 ;
+INFO  13:05:44,684 - #17 bodovi
+INFO  13:05:44,684 - #12 =
+INFO  13:05:44,684 - #17 niz
+INFO  13:05:44,684 - #14 [
+INFO  13:05:44,684 - #16 1
+INFO  13:05:44,684 - #15 ]
+INFO  13:05:44,684 - #44 /
+INFO  13:05:44,684 - #17 niz
+INFO  13:05:44,684 - #14 [
+INFO  13:05:44,700 - #16 0
+INFO  13:05:44,700 - #15 ]
+INFO  13:05:44,700 - #5 ;
+INFO  13:05:44,700 - #9 print
+INFO  13:05:44,700 - #6 (
+INFO  13:05:44,700 - #17 bodovi
+INFO  13:05:44,700 - #7 )
+INFO  13:05:44,700 - #5 ;
+INFO  13:05:44,700 - #17 nizch
+INFO  13:05:44,700 - #12 =
+INFO  13:05:44,700 - #35 new
+INFO  13:05:44,700 - #17 char
+INFO  13:05:44,700 - #14 [
+INFO  13:05:44,700 - #16 3
+INFO  13:05:44,700 - #15 ]
+INFO  13:05:44,700 - #5 ;
+INFO  13:05:44,700 - #17 nizch
+INFO  13:05:44,700 - #14 [
+INFO  13:05:44,700 - #16 0
+INFO  13:05:44,700 - #15 ]
+INFO  13:05:44,700 - #12 =
+INFO  13:05:44,700 - #18 a
+INFO  13:05:44,700 - #5 ;
+INFO  13:05:44,700 - #9 print
+INFO  13:05:44,700 - #6 (
+INFO  13:05:44,700 - #17 nizch
+INFO  13:05:44,700 - #14 [
+INFO  13:05:44,700 - #16 2
+INFO  13:05:44,700 - #34 -
+INFO  13:05:44,700 - #16 1
+INFO  13:05:44,700 - #15 ]
+INFO  13:05:44,700 - #7 )
+INFO  13:05:44,700 - #5 ;
+INFO  13:05:44,700 - #9 print
+INFO  13:05:44,700 - #6 (
+INFO  13:05:44,700 - #17 bodovi
+INFO  13:05:44,700 - #7 )
+INFO  13:05:44,700 - #5 ;
+INFO  13:05:44,700 - #31 read
+INFO  13:05:44,700 - #6 (
+INFO  13:05:44,700 - #17 bodovi
+INFO  13:05:44,700 - #7 )
+INFO  13:05:44,700 - #5 ;
+INFO  13:05:44,700 - #17 bodovi
+INFO  13:05:44,700 - #12 =
+INFO  13:05:44,700 - #17 bodovi
+INFO  13:05:44,700 - #11 +
+INFO  13:05:44,700 - #16 1
+INFO  13:05:44,700 - #5 ;
+INFO  13:05:44,700 - #9 print
+INFO  13:05:44,700 - #6 (
+INFO  13:05:44,700 - #17 bodovi
+INFO  13:05:44,700 - #7 )
+INFO  13:05:44,700 - #5 ;
+INFO  13:05:44,700 - #4 }
+INFO  13:05:44,700 - #4 }
+INFO  13:05:44,700 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  ConsVarClasses(
+    ConsVarClasses(
+      ConsVarClasses(
+        ConsVarClasses(
+          ConsVarClasses(
+            NoConsVarClasses(
+            ) [NoConsVarClasses]
+            EnumD(
+              EnumDecl(
+               Broj
+                EnumIdentL(
+                  EnumIdentL(
+                    EnumIdentL(
+                      EnumId(
+                        EnumIdent(
+                         NULA
+                          EnumIdentHaveNoValue(
+                          ) [EnumIdentHaveNoValue]
+                        ) [EnumIdent]
+                      ) [EnumId]
+                      EnumIdent(
+                       JEDAN
+                        EnumIdentHaveNoValue(
+                        ) [EnumIdentHaveNoValue]
+                      ) [EnumIdent]
+                    ) [EnumIdentL]
+                    EnumIdent(
+                     PET
+                      EnumIdentHaveValue(
+                       5
+                      ) [EnumIdentHaveValue]
+                    ) [EnumIdent]
+                  ) [EnumIdentL]
+                  EnumIdent(
+                   DESET
+                    EnumIdentHaveValue(
+                     10
+                    ) [EnumIdentHaveValue]
+                  ) [EnumIdent]
+                ) [EnumIdentL]
+              ) [EnumDecl]
+            ) [EnumD]
+          ) [ConsVarClasses]
+          ConstD(
+            ConstDecl(
+              Type(
+               int
+              ) [Type]
+              ConstId(
+                NumConst(
+                 jedan
+                 1
+                ) [NumConst]
+              ) [ConstId]
+            ) [ConstDecl]
+          ) [ConstD]
+        ) [ConsVarClasses]
+        ConstD(
+          ConstDecl(
+            Type(
+             int
+            ) [Type]
+            ConstId(
+              NumConst(
+               pet
+               5
+              ) [NumConst]
+            ) [ConstId]
+          ) [ConstDecl]
+        ) [ConstD]
+      ) [ConsVarClasses]
+      VarD(
+        VarDeclCorrect(
+          Type(
+           int
+          ) [Type]
+          VarId(
+            VarIdent(
+             niz
+              SBracketYes(
+              ) [SBracketYes]
+            ) [VarIdent]
+          ) [VarId]
+        ) [VarDeclCorrect]
+      ) [VarD]
+    ) [ConsVarClasses]
+    VarD(
+      VarDeclCorrect(
+        Type(
+         char
+        ) [Type]
+        VarId(
+          VarIdent(
+           nizch
+            SBracketYes(
+            ) [SBracketYes]
+          ) [VarIdent]
+        ) [VarId]
+      ) [VarDeclCorrect]
+    ) [VarD]
+  ) [ConsVarClasses]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      VoidMethodName(
+       main
+      ) [VoidMethodName]
+      NoFormParams(
+      ) [NoFormParams]
+      VarsYes(
+        VarsYes(
+          VarsNo(
+          ) [VarsNo]
+          VarDeclCorrect(
+            Type(
+             int
+            ) [Type]
+            VarId(
+              VarIdent(
+               bodovi
+                SBracketNo(
+                ) [SBracketNo]
+              ) [VarIdent]
+            ) [VarId]
+          ) [VarDeclCorrect]
+        ) [VarsYes]
+        VarDeclCorrect(
+          Type(
+           Broj
+          ) [Type]
+          VarIdentL(
+            VarId(
+              VarIdent(
+               nula
+                SBracketNo(
+                ) [SBracketNo]
+              ) [VarIdent]
+            ) [VarId]
+            VarIdent(
+             jedan
+              SBracketNo(
+              ) [SBracketNo]
+            ) [VarIdent]
+          ) [VarIdentL]
+        ) [VarDeclCorrect]
+      ) [VarsYes]
+      Statements(
+        Statements(
+          Statements(
+            Statements(
+              Statements(
+                Statements(
+                  Statements(
+                    Statements(
+                      Statements(
+                        Statements(
+                          Statements(
+                            Statements(
+                              Statements(
+                                Statements(
+                                  Statements(
+                                    Statements(
+                                      Statements(
+                                        NoStmt(
+                                        ) [NoStmt]
+                                        DesigStatement(
+                                          DesignatorStEqualExpr(
+                                            DesignatorBegin(
+                                             nula
+                                            ) [DesignatorBegin]
+                                            AssignopDerived1(
+                                            ) [AssignopDerived1]
+                                            ExprEqualsTerm(
+                                              MulopFactor(
+                                                DesigFactor(
+                                                  DotIdent(
+                                                    DesignatorBegin(
+                                                     Broj
+                                                    ) [DesignatorBegin]
+                                                   NULA
+                                                  ) [DotIdent]
+                                                  OptionParenActParsNo(
+                                                  ) [OptionParenActParsNo]
+                                                ) [DesigFactor]
+                                              ) [MulopFactor]
+                                            ) [ExprEqualsTerm]
+                                          ) [DesignatorStEqualExpr]
+                                        ) [DesigStatement]
+                                      ) [Statements]
+                                      DesigStatement(
+                                        DesignatorStEqualExpr(
+                                          DesignatorBegin(
+                                           bodovi
+                                          ) [DesignatorBegin]
+                                          AssignopDerived1(
+                                          ) [AssignopDerived1]
+                                          ExprEqualsTerm(
+                                            MulopFactor(
+                                              NumFactor(
+                                               0
+                                              ) [NumFactor]
+                                            ) [MulopFactor]
+                                          ) [ExprEqualsTerm]
+                                        ) [DesignatorStEqualExpr]
+                                      ) [DesigStatement]
+                                    ) [Statements]
+                                    DesigStatement(
+                                      DesignatorStIncrement(
+                                        DesignatorBegin(
+                                         bodovi
+                                        ) [DesignatorBegin]
+                                      ) [DesignatorStIncrement]
+                                    ) [DesigStatement]
+                                  ) [Statements]
+                                  DesigStatement(
+                                    DesignatorStEqualExpr(
+                                      DesignatorBegin(
+                                       bodovi
+                                      ) [DesignatorBegin]
+                                      AssignopDerived1(
+                                      ) [AssignopDerived1]
+                                      ExprAddopTerm(
+                                        ExprEqualsTerm(
+                                          MulopFactor(
+                                            DesigFactor(
+                                              DesignatorBegin(
+                                               bodovi
+                                              ) [DesignatorBegin]
+                                              OptionParenActParsNo(
+                                              ) [OptionParenActParsNo]
+                                            ) [DesigFactor]
+                                          ) [MulopFactor]
+                                        ) [ExprEqualsTerm]
+                                        AddopPlus(
+                                        ) [AddopPlus]
+                                        MulopFactor(
+                                          DesigFactor(
+                                            DesignatorBegin(
+                                             jedan
+                                            ) [DesignatorBegin]
+                                            OptionParenActParsNo(
+                                            ) [OptionParenActParsNo]
+                                          ) [DesigFactor]
+                                        ) [MulopFactor]
+                                      ) [ExprAddopTerm]
+                                    ) [DesignatorStEqualExpr]
+                                  ) [DesigStatement]
+                                ) [Statements]
+                                DesigStatement(
+                                  DesignatorStEqualExpr(
+                                    DesignatorBegin(
+                                     bodovi
+                                    ) [DesignatorBegin]
+                                    AssignopDerived1(
+                                    ) [AssignopDerived1]
+                                    ExprEqualsTerm(
+                                      MulopFactors(
+                                        MulopFactor(
+                                          DesigFactor(
+                                            DesignatorBegin(
+                                             bodovi
+                                            ) [DesignatorBegin]
+                                            OptionParenActParsNo(
+                                            ) [OptionParenActParsNo]
+                                          ) [DesigFactor]
+                                        ) [MulopFactor]
+                                        MulopMul(
+                                        ) [MulopMul]
+                                        DesigFactor(
+                                          DesignatorBegin(
+                                           pet
+                                          ) [DesignatorBegin]
+                                          OptionParenActParsNo(
+                                          ) [OptionParenActParsNo]
+                                        ) [DesigFactor]
+                                      ) [MulopFactors]
+                                    ) [ExprEqualsTerm]
+                                  ) [DesignatorStEqualExpr]
+                                ) [DesigStatement]
+                              ) [Statements]
+                              DesigStatement(
+                                DesignatorStDecrement(
+                                  DesignatorBegin(
+                                   bodovi
+                                  ) [DesignatorBegin]
+                                ) [DesignatorStDecrement]
+                              ) [DesigStatement]
+                            ) [Statements]
+                            PrintStatement(
+                              ExprEqualsTerm(
+                                MulopFactor(
+                                  DesigFactor(
+                                    DesignatorBegin(
+                                     bodovi
+                                    ) [DesignatorBegin]
+                                    OptionParenActParsNo(
+                                    ) [OptionParenActParsNo]
+                                  ) [DesigFactor]
+                                ) [MulopFactor]
+                              ) [ExprEqualsTerm]
+                              OptionNumConstNo(
+                              ) [OptionNumConstNo]
+                            ) [PrintStatement]
+                          ) [Statements]
+                          DesigStatement(
+                            DesignatorStEqualExpr(
+                              DesignatorBegin(
+                               niz
+                              ) [DesignatorBegin]
+                              AssignopDerived1(
+                              ) [AssignopDerived1]
+                              ExprEqualsTerm(
+                                MulopFactor(
+                                  NewFactor(
+                                    Type(
+                                     int
+                                    ) [Type]
+                                    OptionSBracketExprYes(
+                                      ExprEqualsTerm(
+                                        MulopFactor(
+                                          NumFactor(
+                                           2
+                                          ) [NumFactor]
+                                        ) [MulopFactor]
+                                      ) [ExprEqualsTerm]
+                                    ) [OptionSBracketExprYes]
+                                  ) [NewFactor]
+                                ) [MulopFactor]
+                              ) [ExprEqualsTerm]
+                            ) [DesignatorStEqualExpr]
+                          ) [DesigStatement]
+                        ) [Statements]
+                        DesigStatement(
+                          DesignatorStEqualExpr(
+                            DesignatorBegin(
+                             bodovi
+                            ) [DesignatorBegin]
+                            AssignopDerived1(
+                            ) [AssignopDerived1]
+                            ExprEqualsTerm(
+                              MulopFactors(
+                                MulopFactor(
+                                  DesigFactor(
+                                    DesigExpr(
+                                      DesigExprBegin(
+                                        DesignatorBegin(
+                                         niz
+                                        ) [DesignatorBegin]
+                                      ) [DesigExprBegin]
+                                      ExprEqualsTerm(
+                                        MulopFactor(
+                                          NumFactor(
+                                           1
+                                          ) [NumFactor]
+                                        ) [MulopFactor]
+                                      ) [ExprEqualsTerm]
+                                    ) [DesigExpr]
+                                    OptionParenActParsNo(
+                                    ) [OptionParenActParsNo]
+                                  ) [DesigFactor]
+                                ) [MulopFactor]
+                                MulopDiv(
+                                ) [MulopDiv]
+                                DesigFactor(
+                                  DesigExpr(
+                                    DesigExprBegin(
+                                      DesignatorBegin(
+                                       niz
+                                      ) [DesignatorBegin]
+                                    ) [DesigExprBegin]
+                                    ExprEqualsTerm(
+                                      MulopFactor(
+                                        NumFactor(
+                                         0
+                                        ) [NumFactor]
+                                      ) [MulopFactor]
+                                    ) [ExprEqualsTerm]
+                                  ) [DesigExpr]
+                                  OptionParenActParsNo(
+                                  ) [OptionParenActParsNo]
+                                ) [DesigFactor]
+                              ) [MulopFactors]
+                            ) [ExprEqualsTerm]
+                          ) [DesignatorStEqualExpr]
+                        ) [DesigStatement]
+                      ) [Statements]
+                      PrintStatement(
+                        ExprEqualsTerm(
+                          MulopFactor(
+                            DesigFactor(
+                              DesignatorBegin(
+                               bodovi
+                              ) [DesignatorBegin]
+                              OptionParenActParsNo(
+                              ) [OptionParenActParsNo]
+                            ) [DesigFactor]
+                          ) [MulopFactor]
+                        ) [ExprEqualsTerm]
+                        OptionNumConstNo(
+                        ) [OptionNumConstNo]
+                      ) [PrintStatement]
+                    ) [Statements]
+                    DesigStatement(
+                      DesignatorStEqualExpr(
+                        DesignatorBegin(
+                         nizch
+                        ) [DesignatorBegin]
+                        AssignopDerived1(
+                        ) [AssignopDerived1]
+                        ExprEqualsTerm(
+                          MulopFactor(
+                            NewFactor(
+                              Type(
+                               char
+                              ) [Type]
+                              OptionSBracketExprYes(
+                                ExprEqualsTerm(
+                                  MulopFactor(
+                                    NumFactor(
+                                     3
+                                    ) [NumFactor]
+                                  ) [MulopFactor]
+                                ) [ExprEqualsTerm]
+                              ) [OptionSBracketExprYes]
+                            ) [NewFactor]
+                          ) [MulopFactor]
+                        ) [ExprEqualsTerm]
+                      ) [DesignatorStEqualExpr]
+                    ) [DesigStatement]
+                  ) [Statements]
+                  DesigStatement(
+                    DesignatorStEqualExpr(
+                      DesigExpr(
+                        DesigExprBegin(
+                          DesignatorBegin(
+                           nizch
+                          ) [DesignatorBegin]
+                        ) [DesigExprBegin]
+                        ExprEqualsTerm(
+                          MulopFactor(
+                            NumFactor(
+                             0
+                            ) [NumFactor]
+                          ) [MulopFactor]
+                        ) [ExprEqualsTerm]
+                      ) [DesigExpr]
+                      AssignopDerived1(
+                      ) [AssignopDerived1]
+                      ExprEqualsTerm(
+                        MulopFactor(
+                          CharFactor(
+                           a
+                          ) [CharFactor]
+                        ) [MulopFactor]
+                      ) [ExprEqualsTerm]
+                    ) [DesignatorStEqualExpr]
+                  ) [DesigStatement]
+                ) [Statements]
+                PrintStatement(
+                  ExprEqualsTerm(
+                    MulopFactor(
+                      DesigFactor(
+                        DesigExpr(
+                          DesigExprBegin(
+                            DesignatorBegin(
+                             nizch
+                            ) [DesignatorBegin]
+                          ) [DesigExprBegin]
+                          ExprAddopTerm(
+                            ExprEqualsTerm(
+                              MulopFactor(
+                                NumFactor(
+                                 2
+                                ) [NumFactor]
+                              ) [MulopFactor]
+                            ) [ExprEqualsTerm]
+                            AddopMinus(
+                            ) [AddopMinus]
+                            MulopFactor(
+                              NumFactor(
+                               1
+                              ) [NumFactor]
+                            ) [MulopFactor]
+                          ) [ExprAddopTerm]
+                        ) [DesigExpr]
+                        OptionParenActParsNo(
+                        ) [OptionParenActParsNo]
+                      ) [DesigFactor]
+                    ) [MulopFactor]
+                  ) [ExprEqualsTerm]
+                  OptionNumConstNo(
+                  ) [OptionNumConstNo]
+                ) [PrintStatement]
+              ) [Statements]
+              PrintStatement(
+                ExprEqualsTerm(
+                  MulopFactor(
+                    DesigFactor(
+                      DesignatorBegin(
+                       bodovi
+                      ) [DesignatorBegin]
+                      OptionParenActParsNo(
+                      ) [OptionParenActParsNo]
+                    ) [DesigFactor]
+                  ) [MulopFactor]
+                ) [ExprEqualsTerm]
+                OptionNumConstNo(
+                ) [OptionNumConstNo]
+              ) [PrintStatement]
+            ) [Statements]
+            ReadDesignator(
+              DesignatorBegin(
+               bodovi
+              ) [DesignatorBegin]
+            ) [ReadDesignator]
+          ) [Statements]
+          DesigStatement(
+            DesignatorStEqualExpr(
+              DesignatorBegin(
+               bodovi
+              ) [DesignatorBegin]
+              AssignopDerived1(
+              ) [AssignopDerived1]
+              ExprAddopTerm(
+                ExprEqualsTerm(
+                  MulopFactor(
+                    DesigFactor(
+                      DesignatorBegin(
+                       bodovi
+                      ) [DesignatorBegin]
+                      OptionParenActParsNo(
+                      ) [OptionParenActParsNo]
+                    ) [DesigFactor]
+                  ) [MulopFactor]
+                ) [ExprEqualsTerm]
+                AddopPlus(
+                ) [AddopPlus]
+                MulopFactor(
+                  NumFactor(
+                   1
+                  ) [NumFactor]
+                ) [MulopFactor]
+              ) [ExprAddopTerm]
+            ) [DesignatorStEqualExpr]
+          ) [DesigStatement]
+        ) [Statements]
+        PrintStatement(
+          ExprEqualsTerm(
+            MulopFactor(
+              DesigFactor(
+                DesignatorBegin(
+                 bodovi
+                ) [DesignatorBegin]
+                OptionParenActParsNo(
+                ) [OptionParenActParsNo]
+              ) [DesigFactor]
+            ) [MulopFactor]
+          ) [ExprEqualsTerm]
+          OptionNumConstNo(
+          ) [OptionNumConstNo]
+        ) [PrintStatement]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  13:05:44,716 - Detektovano koriscenje lokalne promenljive ( nula) na liniji 18 Var nula: , 1, 1 

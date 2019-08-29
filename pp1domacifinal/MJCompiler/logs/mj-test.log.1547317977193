@@ -1,0 +1,2 @@
+ERROR 19:32:46,787 - Expr nije tipa char,int ili bool na liniji 21
+ERROR 19:32:46,787 - Parsiranje NIJE uspesno zavrseno!

@@ -1,0 +1,78 @@
+// generated with ast extension for cup
+// version 0.8
+// 13/0/2019 19:40:31
+
+
+package rs.ac.bg.etf.pp1.ast;
+
+public class VarsYes extends VarsMethods {
+
+    private VarsMethods VarsMethods;
+    private VarDecl VarDecl;
+
+    public VarsYes (VarsMethods VarsMethods, VarDecl VarDecl) {
+        this.VarsMethods=VarsMethods;
+        if(VarsMethods!=null) VarsMethods.setParent(this);
+        this.VarDecl=VarDecl;
+        if(VarDecl!=null) VarDecl.setParent(this);
+    }
+
+    public VarsMethods getVarsMethods() {
+        return VarsMethods;
+    }
+
+    public void setVarsMethods(VarsMethods VarsMethods) {
+        this.VarsMethods=VarsMethods;
+    }
+
+    public VarDecl getVarDecl() {
+        return VarDecl;
+    }
+
+    public void setVarDecl(VarDecl VarDecl) {
+        this.VarDecl=VarDecl;
+    }
+
+    public void accept(Visitor visitor) {
+        visitor.visit(this);
+    }
+
+    public void childrenAccept(Visitor visitor) {
+        if(VarsMethods!=null) VarsMethods.accept(visitor);
+        if(VarDecl!=null) VarDecl.accept(visitor);
+    }
+
+    public void traverseTopDown(Visitor visitor) {
+        accept(visitor);
+        if(VarsMethods!=null) VarsMethods.traverseTopDown(visitor);
+        if(VarDecl!=null) VarDecl.traverseTopDown(visitor);
+    }
+
+    public void traverseBottomUp(Visitor visitor) {
+        if(VarsMethods!=null) VarsMethods.traverseBottomUp(visitor);
+        if(VarDecl!=null) VarDecl.traverseBottomUp(visitor);
+        accept(visitor);
+    }
+
+    public String toString(String tab) {
+        StringBuffer buffer=new StringBuffer();
+        buffer.append(tab);
+        buffer.append("VarsYes(\n");
+
+        if(VarsMethods!=null)
+            buffer.append(VarsMethods.toString("  "+tab));
+        else
+            buffer.append(tab+"  null");
+        buffer.append("\n");
+
+        if(VarDecl!=null)
+            buffer.append(VarDecl.toString("  "+tab));
+        else
+            buffer.append(tab+"  null");
+        buffer.append("\n");
+
+        buffer.append(tab);
+        buffer.append(") [VarsYes]");
+        return buffer.toString();
+    }
+}

@@ -1,0 +1,39 @@
+INFO  20:14:47,098 - Compiling source file: C:\Users\Aleksandar\Downloads\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  20:14:47,136 - #2 program
+INFO  20:14:47,136 - #17 MJProgram
+INFO  20:14:47,136 - #17 int
+INFO  20:14:47,136 - #17 x
+INFO  20:14:47,136 - #8 ,
+INFO  20:14:47,136 - #17 y
+INFO  20:14:47,136 - #5 ;
+INFO  20:14:47,136 - #24 enum
+INFO  20:14:47,136 - #17 Broj
+INFO  20:14:47,136 - #3 {
+INFO  20:14:47,136 - #17 NULA
+INFO  20:14:47,136 - #8 ,
+INFO  20:14:47,136 - #17 JEDAN
+INFO  20:14:47,136 - #8 ,
+INFO  20:14:47,136 - #17 PET
+INFO  20:14:47,136 - #12 =
+INFO  20:14:47,136 - #16 5
+INFO  20:14:47,136 - #8 ,
+INFO  20:14:47,136 - #17 DESET
+INFO  20:14:47,136 - #12 =
+INFO  20:14:47,136 - #16 10
+INFO  20:14:47,136 - #4 }
+INFO  20:14:47,136 - #23 class
+INFO  20:14:47,136 - #17 A
+INFO  20:14:47,136 - #3 {
+INFO  20:14:47,136 - #4 }
+INFO  20:14:47,136 - #3 {
+INFO  20:14:47,136 - #17 int
+INFO  20:14:47,136 - #17 k
+INFO  20:14:47,136 - #6 (
+INFO  20:14:47,136 - #7 )
+INFO  20:14:47,136 - #17 int
+INFO  20:14:47,136 - #17 c
+INFO  20:14:47,136 - #5 ;
+INFO  20:14:47,136 - #17 char
+ERROR 20:14:47,136 - 
+Sintaksna greska na liniji 10
+ERROR 20:14:47,136 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 10

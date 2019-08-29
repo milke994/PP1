@@ -1,0 +1,15 @@
+INFO  20:12:27,998 - Compiling source file: C:\Users\Aleksandar\Downloads\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  20:12:28,045 - #2 program
+INFO  20:12:28,045 - #17 MJProgram
+INFO  20:12:28,045 - #17 int
+INFO  20:12:28,045 - #17 x
+INFO  20:12:28,045 - #8 ,
+INFO  20:12:28,045 - #17 y
+INFO  20:12:28,045 - #5 ;
+INFO  20:12:28,045 - #24 enum
+INFO  20:12:28,045 - #17 Broj
+INFO  20:12:28,045 - #3 {
+INFO  20:12:28,045 - #11 +
+ERROR 20:12:28,045 - 
+Sintaksna greska na liniji 3
+ERROR 20:12:28,045 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 3

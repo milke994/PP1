@@ -1,0 +1,331 @@
+INFO  19:33:30,556 - Compiling source file: C:\Users\Aleksandar\Downloads\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  19:33:30,598 - #2 program
+INFO  19:33:30,598 - #17 MJProgram
+INFO  19:33:30,598 - #17 int
+INFO  19:33:30,599 - #17 x
+INFO  19:33:30,599 - #5 ;
+INFO  19:33:30,600 - #17 int
+INFO  19:33:30,601 - #17 y
+INFO  19:33:30,601 - #5 ;
+INFO  19:33:30,601 - #17 char
+INFO  19:33:30,601 - #17 a
+INFO  19:33:30,601 - #5 ;
+INFO  19:33:30,601 - #3 {
+INFO  19:33:30,601 - #17 int
+INFO  19:33:30,602 - #17 k
+INFO  19:33:30,602 - #6 (
+INFO  19:33:30,602 - #7 )
+INFO  19:33:30,602 - #17 int
+INFO  19:33:30,603 - #17 c
+INFO  19:33:30,603 - #5 ;
+INFO  19:33:30,603 - #3 {
+INFO  19:33:30,603 - #17 c
+INFO  19:33:30,612 - #12 =
+INFO  19:33:30,612 - #16 2
+INFO  19:33:30,613 - #5 ;
+INFO  19:33:30,613 - #10 return
+INFO  19:33:30,614 - #17 c
+INFO  19:33:30,614 - #11 +
+INFO  19:33:30,614 - #16 2
+INFO  19:33:30,615 - #5 ;
+INFO  19:33:30,615 - #4 }
+INFO  19:33:30,615 - #13 void
+INFO  19:33:30,615 - #17 main
+INFO  19:33:30,616 - #6 (
+INFO  19:33:30,616 - #7 )
+INFO  19:33:30,616 - #3 {
+INFO  19:33:30,616 - #17 x
+INFO  19:33:30,616 - #12 =
+INFO  19:33:30,616 - #16 3
+INFO  19:33:30,616 - #5 ;
+INFO  19:33:30,616 - #17 a
+INFO  19:33:30,616 - #12 =
+INFO  19:33:30,616 - #18 a
+INFO  19:33:30,616 - #5 ;
+INFO  19:33:30,616 - #9 print
+INFO  19:33:30,616 - #6 (
+INFO  19:33:30,616 - #16 1
+INFO  19:33:30,616 - #7 )
+INFO  19:33:30,617 - #5 ;
+INFO  19:33:30,617 - #9 print
+INFO  19:33:30,617 - #6 (
+INFO  19:33:30,617 - #17 x
+INFO  19:33:30,617 - #7 )
+INFO  19:33:30,617 - #5 ;
+INFO  19:33:30,617 - #17 x
+INFO  19:33:30,617 - #32 ++
+INFO  19:33:30,617 - #5 ;
+INFO  19:33:30,618 - #9 print
+INFO  19:33:30,618 - #6 (
+INFO  19:33:30,618 - #17 x
+INFO  19:33:30,618 - #7 )
+INFO  19:33:30,618 - #5 ;
+INFO  19:33:30,618 - #9 print
+INFO  19:33:30,618 - #6 (
+INFO  19:33:30,618 - #17 a
+INFO  19:33:30,618 - #7 )
+INFO  19:33:30,618 - #5 ;
+INFO  19:33:30,618 - #4 }
+INFO  19:33:30,618 - #4 }
+INFO  19:33:30,621 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  ConsVarClasses(
+    ConsVarClasses(
+      ConsVarClasses(
+        NoConsVarClasses(
+        ) [NoConsVarClasses]
+        VarD(
+          VarDeclCorrect(
+            Type(
+             int
+            ) [Type]
+            VarId(
+              VarIdent(
+               x
+                SBracketNo(
+                ) [SBracketNo]
+              ) [VarIdent]
+            ) [VarId]
+          ) [VarDeclCorrect]
+        ) [VarD]
+      ) [ConsVarClasses]
+      VarD(
+        VarDeclCorrect(
+          Type(
+           int
+          ) [Type]
+          VarId(
+            VarIdent(
+             y
+              SBracketNo(
+              ) [SBracketNo]
+            ) [VarIdent]
+          ) [VarId]
+        ) [VarDeclCorrect]
+      ) [VarD]
+    ) [ConsVarClasses]
+    VarD(
+      VarDeclCorrect(
+        Type(
+         char
+        ) [Type]
+        VarId(
+          VarIdent(
+           a
+            SBracketNo(
+            ) [SBracketNo]
+          ) [VarIdent]
+        ) [VarId]
+      ) [VarDeclCorrect]
+    ) [VarD]
+  ) [ConsVarClasses]
+  MethodDeclarations(
+    MethodDeclarations(
+      NoMethodDecl(
+      ) [NoMethodDecl]
+      MethodDecl(
+        MethodTypeN(
+          Type(
+           int
+          ) [Type]
+         k
+        ) [MethodTypeN]
+        NoFormParams(
+        ) [NoFormParams]
+        VarsYes(
+          VarsNo(
+          ) [VarsNo]
+          VarDeclCorrect(
+            Type(
+             int
+            ) [Type]
+            VarId(
+              VarIdent(
+               c
+                SBracketNo(
+                ) [SBracketNo]
+              ) [VarIdent]
+            ) [VarId]
+          ) [VarDeclCorrect]
+        ) [VarsYes]
+        Statements(
+          Statements(
+            NoStmt(
+            ) [NoStmt]
+            DesigStatement(
+              DesignatorStEqualExpr(
+                DesignatorBegin(
+                 c
+                ) [DesignatorBegin]
+                AssignopDerived1(
+                ) [AssignopDerived1]
+                ExprEqualsTerm(
+                  MulopFactor(
+                    NumFactor(
+                     2
+                    ) [NumFactor]
+                  ) [MulopFactor]
+                ) [ExprEqualsTerm]
+              ) [DesignatorStEqualExpr]
+            ) [DesigStatement]
+          ) [Statements]
+          ReturnOnly(
+            OptionExprRetYes(
+              ExprAddopTerm(
+                ExprEqualsTerm(
+                  MulopFactor(
+                    DesigFactor(
+                      DesignatorBegin(
+                       c
+                      ) [DesignatorBegin]
+                      OptionParenActParsNo(
+                      ) [OptionParenActParsNo]
+                    ) [DesigFactor]
+                  ) [MulopFactor]
+                ) [ExprEqualsTerm]
+                AddopPlus(
+                ) [AddopPlus]
+                MulopFactor(
+                  NumFactor(
+                   2
+                  ) [NumFactor]
+                ) [MulopFactor]
+              ) [ExprAddopTerm]
+            ) [OptionExprRetYes]
+          ) [ReturnOnly]
+        ) [Statements]
+      ) [MethodDecl]
+    ) [MethodDeclarations]
+    MethodDecl(
+      VoidMethodName(
+       main
+      ) [VoidMethodName]
+      NoFormParams(
+      ) [NoFormParams]
+      VarsNo(
+      ) [VarsNo]
+      Statements(
+        Statements(
+          Statements(
+            Statements(
+              Statements(
+                Statements(
+                  Statements(
+                    NoStmt(
+                    ) [NoStmt]
+                    DesigStatement(
+                      DesignatorStEqualExpr(
+                        DesignatorBegin(
+                         x
+                        ) [DesignatorBegin]
+                        AssignopDerived1(
+                        ) [AssignopDerived1]
+                        ExprEqualsTerm(
+                          MulopFactor(
+                            NumFactor(
+                             3
+                            ) [NumFactor]
+                          ) [MulopFactor]
+                        ) [ExprEqualsTerm]
+                      ) [DesignatorStEqualExpr]
+                    ) [DesigStatement]
+                  ) [Statements]
+                  DesigStatement(
+                    DesignatorStEqualExpr(
+                      DesignatorBegin(
+                       a
+                      ) [DesignatorBegin]
+                      AssignopDerived1(
+                      ) [AssignopDerived1]
+                      ExprEqualsTerm(
+                        MulopFactor(
+                          CharFactor(
+                           a
+                          ) [CharFactor]
+                        ) [MulopFactor]
+                      ) [ExprEqualsTerm]
+                    ) [DesignatorStEqualExpr]
+                  ) [DesigStatement]
+                ) [Statements]
+                PrintStatement(
+                  ExprEqualsTerm(
+                    MulopFactor(
+                      NumFactor(
+                       1
+                      ) [NumFactor]
+                    ) [MulopFactor]
+                  ) [ExprEqualsTerm]
+                  OptionNumConstNo(
+                  ) [OptionNumConstNo]
+                ) [PrintStatement]
+              ) [Statements]
+              PrintStatement(
+                ExprEqualsTerm(
+                  MulopFactor(
+                    DesigFactor(
+                      DesignatorBegin(
+                       x
+                      ) [DesignatorBegin]
+                      OptionParenActParsNo(
+                      ) [OptionParenActParsNo]
+                    ) [DesigFactor]
+                  ) [MulopFactor]
+                ) [ExprEqualsTerm]
+                OptionNumConstNo(
+                ) [OptionNumConstNo]
+              ) [PrintStatement]
+            ) [Statements]
+            DesigStatement(
+              DesignatorStIncrement(
+                DesignatorBegin(
+                 x
+                ) [DesignatorBegin]
+              ) [DesignatorStIncrement]
+            ) [DesigStatement]
+          ) [Statements]
+          PrintStatement(
+            ExprEqualsTerm(
+              MulopFactor(
+                DesigFactor(
+                  DesignatorBegin(
+                   x
+                  ) [DesignatorBegin]
+                  OptionParenActParsNo(
+                  ) [OptionParenActParsNo]
+                ) [DesigFactor]
+              ) [MulopFactor]
+            ) [ExprEqualsTerm]
+            OptionNumConstNo(
+            ) [OptionNumConstNo]
+          ) [PrintStatement]
+        ) [Statements]
+        PrintStatement(
+          ExprEqualsTerm(
+            MulopFactor(
+              DesigFactor(
+                DesignatorBegin(
+                 a
+                ) [DesignatorBegin]
+                OptionParenActParsNo(
+                ) [OptionParenActParsNo]
+              ) [DesigFactor]
+            ) [MulopFactor]
+          ) [ExprEqualsTerm]
+          OptionNumConstNo(
+          ) [OptionNumConstNo]
+        ) [PrintStatement]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  19:33:30,624 - Detektovano koriscenje lokalne promenljive ( c) na liniji 7 Var c: int, 0, 1 
+INFO  19:33:30,624 - Detektovano koriscenje lokalne promenljive ( c) na liniji 8 Var c: int, 0, 1 
+INFO  19:33:30,624 - Detektovano koriscenje globalne promenljive ( x) na liniji 12 Var x: int, 0, 0 
+INFO  19:33:30,624 - Detektovano koriscenje globalne promenljive ( a) na liniji 13 Var a: char, 2, 0 
+INFO  19:33:30,624 - Detektovano koriscenje globalne promenljive ( x) na liniji 17 Var x: int, 0, 0 
+INFO  19:33:30,624 - Detektovano koriscenje globalne promenljive ( x) na liniji 19 Var x: int, 0, 0 
+INFO  19:33:30,624 - Detektovano koriscenje globalne promenljive ( x) na liniji 21 Var x: int, 0, 0 
+INFO  19:33:30,624 - Detektovano koriscenje globalne promenljive ( a) na liniji 23 Var a: char, 2, 0 
+INFO  19:33:30,631 - Parsiranje uspesno zavrseno!

@@ -1,0 +1,64 @@
+INFO  19:27:36,067 - Compiling source file: C:\Users\Aleksandar\Downloads\pp1lab.templateAST\workspace\MJCompiler\test\programtest.mj
+INFO  19:27:36,124 - #2 program
+INFO  19:27:36,125 - #17 MojTest
+INFO  19:27:36,125 - #17 enum
+INFO  19:27:36,126 - #17 Broj
+INFO  19:27:36,127 - #3 {
+ERROR 19:27:36,127 - 
+Sintaksna greska na liniji 3
+INFO  19:27:36,127 - #17 NULA
+INFO  19:27:36,127 - #8 ,
+INFO  19:27:36,127 - #17 JEDAN
+INFO  19:27:36,127 - #8 ,
+INFO  19:27:36,128 - #17 PET
+INFO  19:27:36,129 - #12 =
+ERROR 19:27:36,129 - 
+Sintaksna greska na liniji 3
+INFO  19:27:36,129 - #16 5
+INFO  19:27:36,129 - #8 ,
+INFO  19:27:36,129 - #17 DESET
+INFO  19:27:36,129 - #12 =
+INFO  19:27:36,129 - #16 10
+INFO  19:27:36,129 - #4 }
+INFO  19:27:36,130 - #22 const
+INFO  19:27:36,130 - #17 int
+INFO  19:27:36,130 - #17 jedan
+INFO  19:27:36,130 - #12 =
+INFO  19:27:36,130 - #16 1
+INFO  19:27:36,130 - #5 ;
+INFO  19:27:36,130 - #22 const
+INFO  19:27:36,130 - #17 int
+INFO  19:27:36,130 - #17 pet
+INFO  19:27:36,131 - #12 =
+INFO  19:27:36,131 - #16 5
+INFO  19:27:36,131 - #5 ;
+INFO  19:27:36,131 - #23 class
+INFO  19:27:36,132 - #17 A
+INFO  19:27:36,132 - #26 extends
+INFO  19:27:36,132 - #17 Broj
+INFO  19:27:36,132 - #27 implements
+INFO  19:27:36,132 - #17 int
+INFO  19:27:36,132 - #3 {
+INFO  19:27:36,132 - #4 }
+INFO  19:27:36,133 - #17 int
+INFO  19:27:36,133 - #17 niz
+INFO  19:27:36,133 - #14 [
+INFO  19:27:36,134 - #15 ]
+INFO  19:27:36,134 - #5 ;
+INFO  19:27:36,134 - #17 char
+INFO  19:27:36,134 - #17 nizch
+INFO  19:27:36,134 - #14 [
+INFO  19:27:36,134 - #15 ]
+INFO  19:27:36,134 - #5 ;
+INFO  19:27:36,134 - #3 {
+INFO  19:27:36,134 - #13 void
+INFO  19:27:36,135 - #17 main
+INFO  19:27:36,135 - #6 (
+INFO  19:27:36,135 - #7 )
+INFO  19:27:36,135 - #17 int
+INFO  19:27:36,135 - #17 bodovi
+INFO  19:27:36,135 - #5 ;
+INFO  19:27:36,135 - #17 Broj
+ERROR 19:27:36,135 - 
+Sintaksna greska na liniji 21
+ERROR 19:27:36,138 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 21

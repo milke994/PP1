@@ -1,0 +1,43 @@
+program MJProgram
+	int x; int y;
+	const char a = 'a';
+	
+	enum Broj { NULA, JEDAN, PET=5, DESET=10}
+{
+	
+	int k () int c; {
+		c = 2;
+		return c+2;
+	}
+	
+	void main() int niz[]; Broj br; {
+	x = 3;
+	y = x + 3 + 2;
+	
+	br = Broj.JEDAN;
+	
+	niz = new int[2];
+	niz[0] = x * y;
+	
+	x = niz[0];
+	
+	print(br);
+	
+	niz[0]++;
+	
+	print(1);
+	
+	print(x);
+	
+	x++;
+	
+	print(x);
+	
+	print(a);
+	
+	x--;
+	
+	print(x);
+		
+	}
+}

@@ -1,0 +1,64 @@
+INFO  19:16:31,553 - Compiling source file: C:\Users\Aleksandar\Downloads\pp1lab.templateAST\workspace\MJCompiler\test\programtest.mj
+INFO  19:16:31,594 - #2 program
+INFO  19:16:31,594 - #17 MojTest
+INFO  19:16:31,594 - #17 enum
+INFO  19:16:31,595 - #17 Broj
+INFO  19:16:31,595 - #3 {
+ERROR 19:16:31,595 - 
+Sintaksna greska na liniji 3
+INFO  19:16:31,595 - #17 NULA
+INFO  19:16:31,595 - #8 ,
+INFO  19:16:31,595 - #17 JEDAN
+INFO  19:16:31,596 - #8 ,
+INFO  19:16:31,596 - #17 PET
+INFO  19:16:31,597 - #12 =
+ERROR 19:16:31,597 - 
+Sintaksna greska na liniji 3
+INFO  19:16:31,597 - #16 5
+INFO  19:16:31,597 - #8 ,
+INFO  19:16:31,597 - #17 DESET
+INFO  19:16:31,597 - #12 =
+INFO  19:16:31,597 - #16 10
+INFO  19:16:31,598 - #4 }
+INFO  19:16:31,599 - #17 const
+INFO  19:16:31,599 - #17 int
+INFO  19:16:31,599 - #17 jedan
+INFO  19:16:31,599 - #12 =
+INFO  19:16:31,599 - #16 1
+INFO  19:16:31,599 - #5 ;
+INFO  19:16:31,599 - #17 const
+INFO  19:16:31,599 - #17 int
+INFO  19:16:31,599 - #17 pet
+ERROR 19:16:31,600 - 
+Sintaksna greska na liniji 5
+INFO  19:16:31,600 - #12 =
+INFO  19:16:31,600 - #16 5
+INFO  19:16:31,600 - #5 ;
+INFO  19:16:31,600 - #17 class
+INFO  19:16:31,600 - #17 A
+INFO  19:16:31,600 - #17 extends
+ERROR 19:16:31,600 - 
+Sintaksna greska na liniji 8
+INFO  19:16:31,600 - #17 Broj
+INFO  19:16:31,600 - #17 implements
+INFO  19:16:31,600 - #17 int
+INFO  19:16:31,600 - #3 {
+INFO  19:16:31,600 - #4 }
+INFO  19:16:31,600 - #17 int
+INFO  19:16:31,600 - #17 niz
+INFO  19:16:31,601 - #5 ;
+INFO  19:16:31,601 - #17 char
+INFO  19:16:31,601 - #17 nizch
+INFO  19:16:31,601 - #5 ;
+INFO  19:16:31,601 - #3 {
+INFO  19:16:31,601 - #13 void
+INFO  19:16:31,602 - #17 main
+INFO  19:16:31,602 - #6 (
+INFO  19:16:31,602 - #7 )
+INFO  19:16:31,602 - #17 int
+INFO  19:16:31,602 - #17 bodovi
+INFO  19:16:31,602 - #5 ;
+INFO  19:16:31,603 - #17 Broj
+ERROR 19:16:31,603 - 
+Sintaksna greska na liniji 21
+ERROR 19:16:31,603 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 21
